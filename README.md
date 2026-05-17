@@ -34,4 +34,4 @@ Projeto focado em:
 - Cadastro
 - Edição
 - Exclusão
-git clone https://github.com/seuusuario/crm_clientes.git
+git clone https://github.com/opaulodev7/crm_clientes.git
